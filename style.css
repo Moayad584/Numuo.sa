@@ -200,7 +200,7 @@ header {
     position: relative;
     width: 100%;
     height: 90vh; /* Full viewport height */
-    background-image: url('../Numuo.sa/logoPage.png'); /* Replace with your image URL or video */
+    background-image: url('/Numuo.sa/logoPage.png'); /* Replace with your image URL or video */
     background-size: cover;
     background-position: center;
     display: flex;
